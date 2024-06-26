@@ -1,1 +1,2 @@
-pip install fastapi uvicorn
+Python 3.12 or latest
+Packages fastapi, uvicorn
