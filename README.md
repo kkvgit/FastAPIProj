@@ -6,8 +6,7 @@ Description:
 
 System Requirements:
     Must have installed python 3.12 or latest version
-    Must have packages FastAPI, Uvicorn
-
+    Must have packages FastAPI, Uvicorn if not preinstalled via pip install fastapi uvicorn
 
 To run the server:
     open the project in any python editor let say in VS code latest
